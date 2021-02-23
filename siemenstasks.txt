@@ -1,0 +1,16 @@
+3 lucruri care mi-au placut din video
+3 lucruri pe care am invatat
+3 lucruri in care m-a modificat
+
+Sa incerc sa lucrez la Even controller
+
+19.02.2021 : 
+Refactoring Eventscontroller
+controllerul nu contine logica ci pur si simplu cheama o metoda si returneaza un view
+sa separam in proiecte in asa fel incat dependintele sa fie minime,
+Codul trebuie sa fie schimbabil
+Mi-am dat seama ca am mult de lucrat si la sintaxa, deoarece a fost cam greu de urmarit cand Marius s-a activat.
+Resharper is cool
+o metoda sa faca un singur lucru
+
+
