@@ -11,8 +11,6 @@ La inceput am spus ca as dorii sa ma ocup de backend, insa am spus asta fiindca 
 Chiar daca nu am folosit nici agile nici waterfall pana acum, inteleg de ce Agile este mult mai flexibil si mai eficient de folosit.
  
 
-
-
 19.02.2021 : 
 Refactoring Eventscontroller
 controllerul nu contine logica ci pur si simplu cheama o metoda si returneaza un view
@@ -22,5 +20,16 @@ Mi-am dat seama ca am mult de lucrat si la sintaxa, deoarece a fost cam greu de 
 Resharper is cool
 o metoda sa faca un singur lucru
 Sa incerc sa lucrez la Event controller
+
+11.03.2021:
+Discutie cu cei de la Bucuria Darului, a mers bine. Ca si functionalitate aplicatia functioneaza si vom incerca sa lucram remote pe NAS-ul lui Gusti.
+Peste o luna vom merge sa instalam aplicatia si celor de la Sediu, insa v-a trebui sa gandim cum vom face cu managementul de date, ca sa nu apara probleme in viitor. Va trebui sa mergem periodic sa le punem aplicatia dupa ce vom face refactoring-ul codului.
+Cred ca la Database management fiecare PC ar trebuii sa lucreze local, si sa poata sa merge-uiasca pe Mongo, precum acela ar fi branchul main pe github. Atunci am avea doar 3 butoane: sa iei ce este pe mongo, sa mergeuiesti cu prioritate la cea locala, si un backup. (ar simplifica mult UI-ul, si ar fi si mai usor de inteles utilizatorilor)
+Poate am putea encripta tot ce intra in DB si cheia sa fie pe un pc? (sa scapam de tot ce tine de securitate)
+Am avut o discutie interesanta cu Marius, si ma bucura faptul ca chiar este interesat de progresul meu si de viitorul meu. Am discutat ca v-a trebui sa ma pun pe treaba si ca trebuie sa imi asum responsabilitate in perioada care urmeaza.S-a ma apuc de licenta scrisa, sa raspund la mailuri.
+
+
+
+
 
 
